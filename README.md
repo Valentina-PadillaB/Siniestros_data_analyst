@@ -38,7 +38,7 @@ Utilización de gráficos coherentes según la tipología de variable que corres
 #### Tasa de homicidios viales (número de homicidios viales por año o mes) como un KPI para seguimiento.
 En cuanto a los homicidios viales, se realizó el cálculo de la tasa de homicidios viales, que consiste en determinar el número de homicidios viales por año o mes como un indicador clave de rendimiento (KPI) para su seguimiento. La tasa anual de homicidios viales proporciona una visión a largo plazo de la incidencia de estos casos en la Ciudad Autónoma de Buenos Aires durante un año completo. Este enfoque temporal nos permite identificar tendencias y patrones a lo largo de varios años, lo que resulta fundamental para evaluar el impacto de las políticas y medidas de seguridad implementadas a largo plazo en la reducción de la violencia vial en la ciudad.
 
-![Image text](https://github.com/Valentina-PadillaB/Siniestros_data_analyst//blob/d48e2d3ae80a5e504060f7fec08bcde26afc252e/imagenes/Tasa%20anual%20de%20Homicidios%20Viales.png)
+![Image text](https://github.com/Valentina-PadillaB/Siniestros_data_analyst/raw/d48e2d3ae80a5e504060f7fec08bcde26afc252e/imagenes/Tasa%20anual%20de%20Homicidios%20Viales.png)
 
 En la gráfica de la tasa anual de homicidios viales, se destaca una reducción significativa a partir del año 2018. Esta disminución puede atribuirse a la implementación del Decreto 101-2018 por parte del Gobierno de Buenos Aires, que autorizó programas de educación vial. A partir de 2019, se implementó a totalidad el 5954 decto 101-2018 y se llevaron a cabo campañas de concientización destinadas a educar a conductores, peatones y ciclistas, segmentadas por grupos de edad, sobre la importancia de respetar las normas de tráfico y las medidas de seguridad.
 
@@ -46,7 +46,7 @@ Estas campañas de concientización incluyeron charlas educativas en las escuela
 
 * Para obtener información adicional sobre estas campañas de educación vial, se puede consultar el siguiente enlace: [Enlace a la información.](https://buenosaires.gob.ar/movilidad/plan-de-seguridad-vial/educacion-para-la-movilidad-sustentable#:~:text=Docentes%3A%201%20Curso%20Educaci%C3%B3n%20Vial%20para%20la%20Movilidad,...%208%20Mi%20primera%20licencia%20...%20M%C3%A1s%20elementos)
 
-![Image text](https://github.com/Valentina-PadillaB/Siniestros_data_analyst/blob/d48e2d3ae80a5e504060f7fec08bcde26afc252e/imagenes/Tasa%20mensual%20de%20Homicidios%20Viales.png)
+![Image text](https://github.com/Valentina-PadillaB/Siniestros_data_analyst/raw/d48e2d3ae80a5e504060f7fec08bcde26afc252e/imagenes/Tasa%20mensual%20de%20Homicidios%20Viales.png)
 
 El análisis mediante el uso del promedio móvil nos proporciona una perspectiva valiosa sobre la tendencia de la tasa de homicidios viales a lo largo del tiempo. A pesar de un repunte registrado en diciembre de 2020, es evidente que, en general, la tasa ha experimentado una disminución desde la implementación del Decreto 101-2018 (conocido como 5954 decto 101-2018).
 
@@ -55,14 +55,15 @@ Sin embargo, es importante señalar que estos repuntes eventuales en la tasa ind
 #### Análisis de la distribución de la hora en que ocurren los homicidios viales.
 El análisis del momento en que ocurren con mayor frecuencia los homicidios viales es fundamental para tomar decisiones efectivas en cuanto a medidas de seguridad pública. Esta información proporciona insights valiosos que pueden ser utilizados por las autoridades para mejorar la seguridad vial en momentos críticos. Por ejemplo, si se identifica que la mayoría de los homicidios viales ocurren en las primeras horas de la mañana, se pueden diseñar estrategias específicas, como la implementación de patrullas adicionales o campañas de concientización dirigidas a esa franja horaria, con el objetivo de reducir el riesgo y aumentar la seguridad de los ciudadanos.
 
-![Image text](https://github.com/Valentina-PadillaB/Siniestros_data_analyst/blob/d48e2d3ae80a5e504060f7fec08bcde26afc252e/imagenes/Distribucion%20de%20Homicidios%20Viales%20por%20hora%20del%20dia.png)
+![Image text](https://github.com/Valentina-PadillaB/Siniestros_data_analyst/raw/d48e2d3ae80a5e504060f7fec08bcde26afc252e/imagenes/Distribucion%20de%20Homicidios%20Viales%20por%20hora%20del%20dia.png)
 
 El análisis de la distribución horaria de los homicidios viales revela patrones interesantes. En la gráfica, podemos observar que las horas con menor ocurrencia de homicidios viales son las 2:00 AM y la 1:00 PM. Esto puede explicarse por el hecho de que, en esas horas, la mayoría de las personas tiende a no estar en movimiento, ya sea debido al descanso nocturno o a la hora del almuerzo. Por otro lado, las horas con mayor incidencia de homicidios viales son las 6:00 AM y las 7:00 AM. Esta tendencia podría relacionarse con la fatiga o somnolencia de los conductores en las primeras horas de la mañana, ya que es un momento en el que es posible que no hayan tenido suficiente descanso. Estos hallazgos proporcionan información valiosa para la planificación de estrategias de seguridad vial específicas para las horas de mayor riesgo.
 
 #### Exploración de la ubicación de los homicidios en función de la comuna y el tipo de calle.
 La consideración del tipo de calle en la que ocurren más homicidios viales es fundamental, ya que esto puede indicar deficiencias en la infraestructura vial que deben abordarse para mejorar la seguridad de los actores viales. Por lo tanto, se genera un gráfico de distribución para identificar las infraestructuras viales más peligrosas para los ciudadanos.
 
-![Image text](https://github.com/Valentina-PadillaB/Siniestros_data_analyst/blob/d48e2d3ae80a5e504060f7fec08bcde26afc252e/imagenes/Homicidios%20Viales%20por%20Comuna%20y%20Tipo%20de%20Calle.png)
+![Image text](https://github.com/Valentina-PadillaB/Siniestros_data_analyst/raw/d48e2d3ae80a5e504060f7fec08bcde26afc252e/imagenes/Distribucion%20de%20Lesiones%20Viales%20por%20Hora%20del%20Dia.png)
+
 
 Es interesante notar que la mayoría de los homicidios viales ocurren en las avenidas, lo que tiene sentido debido a varios factores. En primer lugar, las avenidas generalmente tienen un alto flujo de tráfico en comparación con otros tipos de calles. Además, las avenidas son una característica común en la ciudad, lo que aumenta las posibilidades de que ocurran accidentes de tráfico, incluidos los homicidios viales. Es notable que en casi todas las comunas (excepto la comuna 12) se registre un alto número de homicidios viales en las avenidas, lo que sugiere la necesidad de revisar la calidad de estas vías o aumentar la supervisión vial en esas áreas de la ciudad.
 
@@ -71,7 +72,8 @@ Por otro lado, el gráfico revela que la Comuna 1 es la que presenta la mayor ca
 ### Lesiones
 
 #### Análisis de la distribución de la hora y el día de la semana en que ocurren las lesiones viales.
-![Image text](https://github.com/Valentina-PadillaB/Siniestros-Viales/blob/d48e2d3ae80a5e504060f7fec08bcde26afc252e/imagenes/Distribucion%20de%20Lesiones%20Viales%20por%20Hora%20del%20Dia.png)
+
+![Image text](https://github.com/Valentina-PadillaB/Siniestros_data_analyst/raw/d48e2d3ae80a5e504060f7fec08bcde26afc252e/imagenes/Distribucion%20de%20Lesiones%20Viales%20por%20D%C3%ADa%20de%20la%20Semana.png)
 
 En contraste con los homicidios, las lesiones viales tienden a aumentar alrededor de las 5:00 PM, lo cual se alinea con informes recientes que indican que las horas pico en Buenos Aires comienzan a la 1:00 PM y se extienden hasta las 5:00 PM. Como se refleja en nuestro gráfico, estas son las horas en las que se registran la mayoría de las lesiones viales. Esto sugiere una relación directa entre el flujo de vehículos y la incidencia de lesiones viales, ya que un mayor flujo de tráfico durante las horas pico puede aumentar el riesgo de accidentes.
 
@@ -79,13 +81,14 @@ Fuente: [Enlace a la fuente](https://www.lanacion.com.ar/buenos-aires/fin-de-la-
 
 Adicionalmente, considerar en qué días de la semana se producen con mayor frecuencia las lesiones viales es crucial para implementar medidas de seguridad dirigidas a proteger a los actores viales que son más activos durante esos días. Esto podría incluir campañas de concientización específicas o patrullas de seguridad adicionales en momentos de mayor riesgo.
 
-![Image text](https://github.com/Valentina-PadillaB/Siniestros_data_analyst/blob/d48e2d3ae80a5e504060f7fec08bcde26afc252e/imagenes/Distribucion%20de%20Lesiones%20Viales%20por%20D%C3%ADa%20de%20la%20Semana.png)
+![Image text](https://github.com/Valentina-PadillaB/Siniestros_data_analyst/raw/d48e2d3ae80a5e504060f7fec08bcde26afc252e/imagenes/Distribucion%20por%20Tipo%20de%20Vehiculo%20Involucrado%20en%20Lesiones%20Viales.png)
+
 
 La gráfica es contundente, sin embargo, es relevante destacar que los accidentes de tráfico y las lesiones viales son eventos multifactoriales, y aunque los viernes pueden experimentar un aumento debido al inicio del fin de semana y las actividades sociales, en términos generales, las lesiones tienden a ocurrir principalmente en los días laborales debido a la mayor actividad relacionada con el trabajo y el tráfico durante estos días. Esto subraya la importancia de implementar medidas de seguridad consistentes a lo largo de la semana para proteger a los actores viales en todo momento.
 
 #### Exploración de la distribución por tipo de vehículo involucrado.
 
-![Image text](https://github.com/Valentina-PadillaB/Siniestros_data_analyst/blob/d48e2d3ae80a5e504060f7fec08bcde26afc252e/imagenes/Distribucion%20por%20Tipo%20de%20Vehiculo%20Involucrado%20en%20Lesiones%20Viales.png)
+![Image text](https://github.com/Valentina-PadillaB/Siniestros_data_analyst/raw/d48e2d3ae80a5e504060f7fec08bcde26afc252e/imagenes/Distribucion%20por%20Tipo%20de%20Vehiculo%20Involucrado%20en%20Lesiones%20Viales.png)
 
 Es evidente que la mayoría de las lesiones viales ocurren en motocicletas, y esto puede atribuirse a varias razones. Las motocicletas son vehículos altamente maniobrables, lo que las hace propensas a moverse con agilidad entre el tráfico. Sin embargo, si no se manejan con precaución, esta ventaja puede convertirse en un riesgo, ya que aumenta la posibilidad de colisiones y caídas. Además, algunos motociclistas pueden adoptar comportamientos de conducción riesgosos, como el exceso de velocidad o la omisión del uso de cascos protectores, lo que incrementa aún más el peligro de accidentes y lesiones.
 
@@ -95,7 +98,7 @@ Es crucial destacar la importancia de que los motociclistas respeten los límite
 Uno de los objetivos clave de esta fase fue calcular las posibles relaciones y distribuciones de homicidios y lesiones viales en la Ciudad Autónoma de Buenos Aires. Esta métrica fundamental nos proporcionó información sobre la gravedad de los siniestros viales en la región y fue esencial para comprender la magnitud del problema.
 
 ### Análisis de la distribución de edades y sexos de las víctimas en ambos conjuntos de datos.
-![Image text](https://github.com/Valentina-PadillaB/Siniestros_data_analyst/blob/d48e2d3ae80a5e504060f7fec08bcde26afc252e/imagenes/Distribucion%20de%20Edades%20y%20Sexo%20en%20Homicidios%20y%20Lesiones%20Viales.png)
+![Image text](https://github.com/Valentina-PadillaB/Siniestros_data_analyst/raw/d48e2d3ae80a5e504060f7fec08bcde26afc252e/imagenes/Distribucion%20Esperada%20de%20Gravedad%20de%20Lesiones%20por%20Tipo%20de%20Actor%20Vial.png)
 
 Los datos sobre sexo y edad de las víctimas son fundamentales para desarrollar políticas públicas y medidas de seguridad efectivas. Por ejemplo, en este gráfico se observa que un grupo demográfico particular (jóvenes adultos de entre 20 y 40 años) tiene una alta probabilidad de ser víctima de un accidente de tráfico, tanto hombres como mujeres. Esto sugiere la necesidad de implementar programas de educación vial específicos y campañas de concientización dirigidas a este grupo de edad para promover comportamientos seguros en la vía pública y reducir el riesgo de lesiones viales. Estos datos son valiosos para diseñar estrategias de prevención y mejorar la seguridad vial en la Ciudad Autónoma de Buenos Aires.
 
