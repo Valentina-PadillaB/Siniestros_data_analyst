@@ -144,6 +144,7 @@ La identificación de las ubicaciones donde ocurre la mayoría de los siniestros
 
 ![Image text](https://github.com/Valentina-PadillaB/Siniestros_data_analyst/blob/d48e2d3ae80a5e504060f7fec08bcde26afc252e/mapa_homicides_and_injuries.jpeg)
 
+
 El mapa resalta la importancia de tomar medidas específicas en la Avenida General Paz debido a la alta tasa de siniestros viales en esa área. Para abordar esta problemática, se sugiere la instalación de cámaras de control de velocidad a lo largo de la avenida. Estas cámaras pueden ayudar a monitorear el cumplimiento de los límites de velocidad y detectar conductas de conducción peligrosas. Además, se recomienda aumentar la presencia policial en la zona para mejorar la supervisión y la aplicación de las normas de tráfico. Estas acciones combinadas pueden contribuir significativamente a reducir la incidencia de siniestros viales y a mejorar la seguridad en la Avenida General Paz y sus alrededores.
 
 ## 6. Conclusiones y sugerencias:
