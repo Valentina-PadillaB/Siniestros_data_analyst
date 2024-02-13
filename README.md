@@ -1,3 +1,8 @@
+¡Bienvenidos al  proyecto ***Data Analyst***.
+<p align='center'>
+<img src = 'https://static.lajornadaestadodemexico.com/wp-content/uploads/2022/08/Siniestros-viales.jpg' height = 500>
+<p>
+
 # Siniestros Viales en CABA
 En este proyecto, analizamos los siniestros viales en la Ciudad Autónoma de Buenos Aires (CABA) para generar información útil que permita a las autoridades locales tomar medidas para reducir la cantidad de víctimas fatales de los accidentes de tránsito. Para ello, utilizamos dos datasets provistos por el Observatorio de Movilidad y Seguridad Vial (OMSV), uno sobre homicidios en siniestros viales y otro sobre lesiones en siniestros viales, ambos correspondientes al período 2016-2021.
 
