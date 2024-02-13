@@ -129,6 +129,14 @@ Este objetivo se establece en función de la sección 2, ya que al explorar la u
 ![Image text](https://github.com/leidy7hernandez/Siniestros-Viales/blob/main/Imagenes/poblacion_anual%202.png)
 En los últimos años, la tasa de homicidios viales en las avenidas ha experimentado fluctuaciones significativas, y lamentablemente, no se logró cumplir con el objetivo el año pasado. Sin embargo, con un aumento en la presencia de las autoridades viales en las avenidas, se espera reducir esta tasa de manera efectiva.
 
+## 4. Análisis Espacial
+### Localización de áreas geográficas con una alta incidencia de siniestros viales y posiblemente de víctimas fatales.
+La identificación de las ubicaciones donde ocurre la mayoría de los siniestros viales es esencial para una asignación eficiente de recursos por parte de las autoridades. Esto les permite concentrar sus esfuerzos y recursos, como oficiales de tráfico, ambulancias y servicios de emergencia, en las áreas de mayor riesgo. Como resultado, se puede proporcionar una respuesta más rápida y efectiva en caso de accidentes, lo que puede marcar la diferencia en la atención a las víctimas y la prevención de lesiones graves o fatales. Esta estrategia contribuye a mejorar la seguridad vial y a reducir el impacto de los siniestros viales en la comunidad.
+
+![Image text](https://github.com/leidy7hernandez/Siniestros-Viales/blob/d48e2d3ae80a5e504060f7fec08bcde26afc252e/Imagenes/Mapa_homicides_and_injuries.png)
+
+El mapa resalta la importancia de tomar medidas específicas en la Avenida General Paz debido a la alta tasa de siniestros viales en esa área. Para abordar esta problemática, se sugiere la instalación de cámaras de control de velocidad a lo largo de la avenida. Estas cámaras pueden ayudar a monitorear el cumplimiento de los límites de velocidad y detectar conductas de conducción peligrosas. Además, se recomienda aumentar la presencia policial en la zona para mejorar la supervisión y la aplicación de las normas de tráfico. Estas acciones combinadas pueden contribuir significativamente a reducir la incidencia de siniestros viales y a mejorar la seguridad en la Avenida General Paz y sus alrededores.
+
 ## 6. Conclusiones y sugerencias:
 
 Este proyecto de análisis de datos se presenta como una herramienta valiosa para contribuir a la mejora de la seguridad vial en la Ciudad de Buenos Aires. Los resultados obtenidos ofrecen una base sólida para la implementación de políticas públicas y acciones concretas que apunten a la reducción de víctimas fatales en siniestros viales, protegiendo la vida de los ciudadanos.
@@ -163,9 +171,7 @@ Fortalecimiento de las entidades: Mejorar las capacidades de las entidades encar
 Monitoreo constante: Mantener una vigilancia permanente del comportamiento de los conductores en la Avenida General Paz.
 La implementación de estas medidas, junto con un compromiso sostenido por parte de todos los actores viales, permitirá avanzar hacia un tránsito más seguro y responsable en la Ciudad de Buenos Aires.
 
-
-
-    En resumen, para reducir la tasa de homicidios viales en las avenidas, es necesario implementar un enfoque integral que combine medidas de concientización, seguridad vial, prevención del delito y sanciones más severas. Estas medidas podrían generar un impacto significativo en la reducción de la tasa de homicidios viales en las avenidas y mejorar la seguridad vial en general.
+   En resumen, para reducir la tasa de homicidios viales en las avenidas, es necesario implementar un enfoque integral que combine medidas de concientización, seguridad vial, prevención del delito y sanciones más severas. Estas medidas podrían generar un impacto significativo en la reducción de la tasa de homicidios viales en las avenidas y mejorar la seguridad vial en general.
 
 
 ## Repositorio de GitHub
