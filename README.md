@@ -62,8 +62,7 @@ El análisis de la distribución horaria de los homicidios viales revela patrone
 #### Exploración de la ubicación de los homicidios en función de la comuna y el tipo de calle.
 La consideración del tipo de calle en la que ocurren más homicidios viales es fundamental, ya que esto puede indicar deficiencias en la infraestructura vial que deben abordarse para mejorar la seguridad de los actores viales. Por lo tanto, se genera un gráfico de distribución para identificar las infraestructuras viales más peligrosas para los ciudadanos.
 
-![Image text](https://github.com/Valentina-PadillaB/Siniestros_data_analyst/raw/main/imagenes/Distribucion%20de%20Homicidios%20Viales%20por%20hora%20del%20dia.png)
-
+![Image text](https://github.com/Valentina-PadillaB/Siniestros_data_analyst/raw/main/imagenes/Homicidios%20Viales%20por%20Comuna%20y%20Tipo%20de%20Calle.png)
 
 Es interesante notar que la mayoría de los homicidios viales ocurren en las avenidas, lo que tiene sentido debido a varios factores. En primer lugar, las avenidas generalmente tienen un alto flujo de tráfico en comparación con otros tipos de calles. Además, las avenidas son una característica común en la ciudad, lo que aumenta las posibilidades de que ocurran accidentes de tráfico, incluidos los homicidios viales. Es notable que en casi todas las comunas (excepto la comuna 12) se registre un alto número de homicidios viales en las avenidas, lo que sugiere la necesidad de revisar la calidad de estas vías o aumentar la supervisión vial en esas áreas de la ciudad.
 
@@ -73,7 +72,7 @@ Por otro lado, el gráfico revela que la Comuna 1 es la que presenta la mayor ca
 
 #### Análisis de la distribución de la hora y el día de la semana en que ocurren las lesiones viales.
 
-![Image text](https://github.com/Valentina-PadillaB/Siniestros_data_analyst/raw/main/imagenes/Distribucion%20de%20Lesiones%20Viales%20por%20D%C3%ADa%20de%20la%20Semana.png)
+![Image text](https://github.com/Valentina-PadillaB/Siniestros_data_analyst/raw/main/imagenes/Distribucion%20de%20Lesiones%20Viales%20por%20Hora%20del%20Dia.png)
 
 En contraste con los homicidios, las lesiones viales tienden a aumentar alrededor de las 5:00 PM, lo cual se alinea con informes recientes que indican que las horas pico en Buenos Aires comienzan a la 1:00 PM y se extienden hasta las 5:00 PM. Como se refleja en nuestro gráfico, estas son las horas en las que se registran la mayoría de las lesiones viales. Esto sugiere una relación directa entre el flujo de vehículos y la incidencia de lesiones viales, ya que un mayor flujo de tráfico durante las horas pico puede aumentar el riesgo de accidentes.
 
@@ -81,9 +80,7 @@ Fuente: [Enlace a la fuente](https://www.lanacion.com.ar/buenos-aires/fin-de-la-
 
 Adicionalmente, considerar en qué días de la semana se producen con mayor frecuencia las lesiones viales es crucial para implementar medidas de seguridad dirigidas a proteger a los actores viales que son más activos durante esos días. Esto podría incluir campañas de concientización específicas o patrullas de seguridad adicionales en momentos de mayor riesgo.
 
-![Image text](https://github.com/Valentina-PadillaB/Siniestros_data_analyst/raw/main/imagenes/Distribucion%20por%20Tipo%20de%20Vehiculo%20Involucrado%20en%20Lesiones%20Viales.png)
-
-
+![Image text](https://github.com/Valentina-PadillaB/Siniestros_data_analyst/raw/main/imagenes/Distribucion%20de%20Lesiones%20Viales%20por%20D%C3%ADa%20de%20la%20Semana.png)
 
 La gráfica es contundente, sin embargo, es relevante destacar que los accidentes de tráfico y las lesiones viales son eventos multifactoriales, y aunque los viernes pueden experimentar un aumento debido al inicio del fin de semana y las actividades sociales, en términos generales, las lesiones tienden a ocurrir principalmente en los días laborales debido a la mayor actividad relacionada con el trabajo y el tráfico durante estos días. Esto subraya la importancia de implementar medidas de seguridad consistentes a lo largo de la semana para proteger a los actores viales en todo momento.
 
@@ -101,14 +98,14 @@ Uno de los objetivos clave de esta fase fue calcular las posibles relaciones y d
 
 ### Análisis de la distribución de edades y sexos de las víctimas en ambos conjuntos de datos.
 
-![Image text](https://github.com/Valentina-PadillaB/Siniestros_data_analyst/raw/main/imagenes/Distribucion%20Esperada%20de%20Gravedad%20de%20Lesiones%20por%20Tipo%20de%20Actor%20Vial.png)
+![Image text](https://github.com/Valentina-PadillaB/Siniestros_data_analyst/raw/main/imagenes/Distribucion%20de%20Edades%20y%20Sexo%20en%20Homicidios%20y%20Lesiones%20Viales.png)
 
 Los datos sobre sexo y edad de las víctimas son fundamentales para desarrollar políticas públicas y medidas de seguridad efectivas. Por ejemplo, en este gráfico se observa que un grupo demográfico particular (jóvenes adultos de entre 20 y 40 años) tiene una alta probabilidad de ser víctima de un accidente de tráfico, tanto hombres como mujeres. Esto sugiere la necesidad de implementar programas de educación vial específicos y campañas de concientización dirigidas a este grupo de edad para promover comportamientos seguros en la vía pública y reducir el riesgo de lesiones viales. Estos datos son valiosos para diseñar estrategias de prevención y mejorar la seguridad vial en la Ciudad Autónoma de Buenos Aires.
 
 ### Relación entre la gravedad de las lesiones y el tipo de actor vial
 Los resultados de este tipo de estudio pueden tener un impacto significativo en las políticas y regulaciones de tráfico. Por ejemplo, si se encuentra que un cierto tipo de actor vial tiene una mayor probabilidad de sufrir lesiones graves, las autoridades pueden considerar la implementación de restricciones o regulaciones adicionales para mejorar su seguridad. En este análisis, también se tendrán en cuenta los "SD" para obtener una imagen más completa de las lesiones. Se utilizará la Prueba de Chi Cuadrado para determinar si existe una asociación significativa entre la gravedad de las lesiones y el tipo de actor vial, como peatones, ciclistas, conductores de automóviles, etc. Si se encuentra una asociación significativa, esto indicará que el tipo de actor vial y la gravedad de las lesiones no son independientes, lo que proporciona información valiosa para la toma de decisiones en materia de seguridad vial.
 
-![Image text](https://github.com/Valentina-PadillaB/Siniestros_data_analyst/raw/d48e2d3ae80a5e504060f7fec08bcde26afc252e/imagenes/Distribucion%20Esperada%20de%20Gravedad%20de%20Lesiones%20por%20Tipo%20de%20Actor%20Vial.png)
+![Image text](https://github.com/Valentina-PadillaB/Siniestros_data_analyst/raw/main/imagenes/Distribucion%20Esperada%20de%20Gravedad%20de%20Lesiones%20por%20Tipo%20de%20Actor%20Vial.png)
 
 
 El análisis de este gráfico revela varias conclusiones importantes. En primer lugar, se destaca la necesidad de mejorar la recopilación de datos sobre accidentes de tránsito en la ciudad de Buenos Aires. La presencia de una cantidad significativa de casos etiquetados como "Sin Datos" sugiere que hay margen para fortalecer las entidades encargadas de la recopilación de datos, ya que contar con información completa y precisa es fundamental para realizar análisis efectivos y tomar medidas de seguridad vial adecuadas.
@@ -145,7 +142,7 @@ En los últimos años, la tasa de homicidios viales en las avenidas ha experimen
 ### Localización de áreas geográficas con una alta incidencia de siniestros viales y posiblemente de víctimas fatales.
 La identificación de las ubicaciones donde ocurre la mayoría de los siniestros viales es esencial para una asignación eficiente de recursos por parte de las autoridades. Esto les permite concentrar sus esfuerzos y recursos, como oficiales de tráfico, ambulancias y servicios de emergencia, en las áreas de mayor riesgo. Como resultado, se puede proporcionar una respuesta más rápida y efectiva en caso de accidentes, lo que puede marcar la diferencia en la atención a las víctimas y la prevención de lesiones graves o fatales. Esta estrategia contribuye a mejorar la seguridad vial y a reducir el impacto de los siniestros viales en la comunidad.
 
-![Image text](https://github.com/Valentina-PadillaB/Siniestros_data_analyst/blob/d48e2d3ae80a5e504060f7fec08bcde26afc252e/imagenes/mapa_homicides_and_injuries.pjeg)
+![Image text](https://github.com/Valentina-PadillaB/Siniestros_data_analyst/blob/d48e2d3ae80a5e504060f7fec08bcde26afc252e/mapa_homicides_and_injuries.pjeg)
 
 El mapa resalta la importancia de tomar medidas específicas en la Avenida General Paz debido a la alta tasa de siniestros viales en esa área. Para abordar esta problemática, se sugiere la instalación de cámaras de control de velocidad a lo largo de la avenida. Estas cámaras pueden ayudar a monitorear el cumplimiento de los límites de velocidad y detectar conductas de conducción peligrosas. Además, se recomienda aumentar la presencia policial en la zona para mejorar la supervisión y la aplicación de las normas de tráfico. Estas acciones combinadas pueden contribuir significativamente a reducir la incidencia de siniestros viales y a mejorar la seguridad en la Avenida General Paz y sus alrededores.
 
