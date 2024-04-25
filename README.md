@@ -153,12 +153,12 @@ Este proyecto de análisis de datos se presenta como una herramienta valiosa par
 
 A partir del análisis realizado, se proponen las siguientes medidas:
 
-* 1. Fortalecimiento de las capacitaciones:
+* 1 . Fortalecimiento de las capacitaciones:
 
 Continuidad y periodicidad: Mantener las capacitaciones segmentadas por edades, brindándolas al menos una vez al año a toda la comunidad.
 Ampliación del enfoque: Incluir en las capacitaciones información sobre la importancia del buen descanso para prevenir siniestros viales por somnolencia, especialmente en las primeras horas del día.
 
-* 2. Refuerzo del control y la vigilancia:
+* 2 . Refuerzo del control y la vigilancia:
 
 Incrementar la presencia policial: Priorizar la Comuna 1, con mayor concentración de siniestros viales, y aumentar la presencia de autoridades viales en las horas pico para garantizar un flujo vehicular seguro.
 
