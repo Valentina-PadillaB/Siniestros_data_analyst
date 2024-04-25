@@ -142,10 +142,7 @@ En los últimos años, la tasa de homicidios viales en las avenidas ha experimen
 ### Localización de áreas geográficas con una alta incidencia de siniestros viales y posiblemente de víctimas fatales.
 La identificación de las ubicaciones donde ocurre la mayoría de los siniestros viales es esencial para una asignación eficiente de recursos por parte de las autoridades. Esto les permite concentrar sus esfuerzos y recursos, como oficiales de tráfico, ambulancias y servicios de emergencia, en las áreas de mayor riesgo. Como resultado, se puede proporcionar una respuesta más rápida y efectiva en caso de accidentes, lo que puede marcar la diferencia en la atención a las víctimas y la prevención de lesiones graves o fatales. Esta estrategia contribuye a mejorar la seguridad vial y a reducir el impacto de los siniestros viales en la comunidad.
 
-![Image text](https://github.com/Valentina-PadillaB/Siniestros_data_analyst/blob/main/mapa_homicides_and_injuries.jpeg).
-
-
-El mapa resalta la importancia de tomar medidas específicas en la Avenida General Paz debido a la alta tasa de siniestros viales en esa área. Para abordar esta problemática, se sugiere la instalación de cámaras de control de velocidad a lo largo de la avenida. Estas cámaras pueden ayudar a monitorear el cumplimiento de los límites de velocidad y detectar conductas de conducción peligrosas. Además, se recomienda aumentar la presencia policial en la zona para mejorar la supervisión y la aplicación de las normas de tráfico. Estas acciones combinadas pueden contribuir significativamente a reducir la incidencia de siniestros viales y a mejorar la seguridad en la Avenida General Paz y sus alrededores.
+En el mapa resalta la importancia de tomar medidas específicas en la Avenida General Paz debido a la alta tasa de siniestros viales en esa área. Para abordar esta problemática, se sugiere la instalación de cámaras de control de velocidad a lo largo de la avenida. Estas cámaras pueden ayudar a monitorear el cumplimiento de los límites de velocidad y detectar conductas de conducción peligrosas. Además, se recomienda aumentar la presencia policial en la zona para mejorar la supervisión y la aplicación de las normas de tráfico. Estas acciones combinadas pueden contribuir significativamente a reducir la incidencia de siniestros viales y a mejorar la seguridad en la Avenida General Paz y sus alrededores.
 
 ## 6. Conclusiones y sugerencias:
 
@@ -162,20 +159,20 @@ Ampliación del enfoque: Incluir en las capacitaciones información sobre la imp
 
 Incrementar la presencia policial: Priorizar la Comuna 1, con mayor concentración de siniestros viales, y aumentar la presencia de autoridades viales en las horas pico para garantizar un flujo vehicular seguro.
 
-* 3. Inversión en infraestructura:
+* 3 . Inversión en infraestructura:
 
 Destinar recursos a la mejora de la infraestructura vial: Implementar mejoras en las avenidas de todas las comunas.
 
-* 4. Implementación de tecnología:
+* 4 . Implementación de tecnología:
 
 Utilizar herramientas tecnológicas: Instalar cámaras o detectores de velocidad en zonas estratégicas para el control del tránsito.
 
-* 5. Foco en motociclistas:
+* 5 . Foco en motociclistas:
 
 Capacitaciones específicas: Implementar programas de formación en seguridad vial especialmente dirigidos a motociclistas.
 Control del uso del casco: Intensificar el control y, en caso necesario, aplicar multas por no llevarlo correctamente.
 
-* 6. Recopilación y análisis de datos:
+* 6 . Recopilación y análisis de datos:
 
 Fortalecimiento de las entidades: Mejorar las capacidades de las entidades encargadas de la recopilación de datos o crear un grupo especializado en siniestros viales.
 Monitoreo constante: Mantener una vigilancia permanente del comportamiento de los conductores en la Avenida General Paz.
